@@ -1,0 +1,10 @@
+D:\LTMCB\HTTPClient\bin\Debug\HTTPClient.exe.config
+D:\LTMCB\HTTPClient\bin\Debug\HTTPClient.exe
+D:\LTMCB\HTTPClient\bin\Debug\HTTPClient.pdb
+D:\LTMCB\HTTPClient\obj\Debug\HTTPClient.csproj.AssemblyReference.cache
+D:\LTMCB\HTTPClient\obj\Debug\HTTPClient.Form1.resources
+D:\LTMCB\HTTPClient\obj\Debug\HTTPClient.Properties.Resources.resources
+D:\LTMCB\HTTPClient\obj\Debug\HTTPClient.csproj.GenerateResource.cache
+D:\LTMCB\HTTPClient\obj\Debug\HTTPClient.csproj.CoreCompileInputs.cache
+D:\LTMCB\HTTPClient\obj\Debug\HTTPClient.exe
+D:\LTMCB\HTTPClient\obj\Debug\HTTPClient.pdb
